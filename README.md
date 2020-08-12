@@ -4,3 +4,5 @@ working xbox hdd image for the emu
 sendspace
 
 https://www.sendspace.com/file/faqmx7
+
+now find the missing bits ...
