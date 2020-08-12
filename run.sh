@@ -1,0 +1,1 @@
+wine qemu-system-xbox -cpu pentium3 -machine xbox,bootrom=mcpx_1.0.bin -m 64 -drive file=xbox_hdd.qcow2,index=0,media=disk,locked=on -drive index=1,media=cdrom,file= -bios 4134_1024k.bin -usb -device usb-xbox-gamepad
